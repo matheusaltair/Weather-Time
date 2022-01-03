@@ -1,0 +1,30 @@
+.btn{
+    color: white;
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    border-color: white;
+}
+.btn:hover {background-color: #08679C;    ; 
+
+transition: 0.5s;
+
+opacity: 0.7;
+
+}
+.textbutton:hover {color: white; 
+
+    transition: 0.3s;
+    
+    opacity: 1;
+    
+    }
+.textbutton{   
+    color: #06344d;
+    flex: 1;
+}
