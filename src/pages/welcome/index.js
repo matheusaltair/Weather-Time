@@ -14,7 +14,7 @@ const Welcome = ()=>{
             <WelcomeTips src= { WeatherApp } title = {`Com duvida se vai cair uma chuva hoje? Deixa com a gente, nos avisamos.`}/>
           </div> 
           <Button button = "Avançar"/>
-       </div>
+          </div>
     )
 }
 
